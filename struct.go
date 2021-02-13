@@ -24,4 +24,20 @@ func main(){
 	fmt.Println(b1.ISBN)
 	fmt.Println(b1.Price)
 	fmt.Println(b1.Pages)
+
+	/*declare and initial one line
+	b1 := struct{
+	Title string
+	Author string
+	ISBN string
+	Price float32
+	Pages int
+	}{
+	Title: "An Introduction to programming",
+	Author="CALEB DOXY",
+	ISBN="978-1478355823",
+	Price=10.50,
+	Pages=165,
+	}
+	*/
 }
