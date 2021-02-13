@@ -26,6 +26,7 @@ func main(){
 	fmt.Println(b1.Pages)
 
 	/*declare and initial one line
+        =====Annonymus
 	b1 := struct{
 	Title string
 	Author string
